@@ -4,6 +4,7 @@
 - Kotlin course at Coursera
 - Kotlin Koans
 - Take a look at codekatas
+- Start CLI project
 - Spring Boot + Kotlin @ O'Reily
 - Funtional Programming in Kotlin
 

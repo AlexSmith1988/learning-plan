@@ -6,3 +6,5 @@
 - Take a look at codekatas
 - Spring Boot + Kotlin @ O'Reily
 - Funtional Programming in Kotlin
+
+- Docker overview https://www.youtube.com/watch?v=lcQfQRDAMpQ&t=624s
